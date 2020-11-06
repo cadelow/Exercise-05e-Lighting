@@ -1,4 +1,3 @@
-```
 # Exercise-05e-Lighting
 Exercise for MSCH-C220, 3 November 2020
 
@@ -21,5 +20,5 @@ None
 None
 
 ## Created by 
-Jason Francis
+Cadence Low
 ```
